@@ -20,7 +20,9 @@ If you see the msg bellow in an enforcer attack no worries.
 Invalid destination MAC address.
 "aireplay-ng --help" for help.
 
+make bouncerTHEone and timer executable then, #if not already
 just execute/run sudo ./bouncerTHEone in terminal
+
 
 
 
