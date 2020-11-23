@@ -32,10 +32,6 @@ files exist, the script will try to continue the...script but obviously will fai
 just check first if your adapters are in monitor mode in-case you get an error,
 or just unplug the adapters and re-run the script, simple as that.
 
-
-
-
-
-
-
+UPDATE! 11/23/2020
+Script speed has been improved, detecting routers also been improved. 
 
