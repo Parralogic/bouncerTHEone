@@ -1,3 +1,6 @@
+UPDATE! 07/16/2023
+updated the bouncerTHEone binary/executable, and timer binary/executable
+
 11/20/2020
 "All" of the scripts associated with bouncer*
 have been condensed into only two executables "bouncerTHEone and timer"
