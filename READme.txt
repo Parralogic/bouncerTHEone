@@ -3,6 +3,9 @@ bouncerTHEone working; And also if it gets stuck on putting your network card in
 mode, if you know aircrack-ng|airmon-ng might require you to kill certain process/es,
 do that then re-run the script.
 
+UPDATE! 05/16/2024
+updated the bouncerTHEone binary/executable, and timer binary/executable
+
 UPDATE! 07/16/2023
 updated the bouncerTHEone binary/executable, and timer binary/executable
 
